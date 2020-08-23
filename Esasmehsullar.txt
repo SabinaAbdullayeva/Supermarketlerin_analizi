@@ -1,0 +1,7 @@
+To complete this Use Case, 
+
+You will be given the dataset which contains data on 438,826 Azerbaijani products purchased by 80,000 customers in 20 branches of the supermarket in 2019. 
+
+Use this link to view dataset from my data.world account free of charge:
+
+https://data.world/zenijat1663/supermarket-dataset/workspace/file?filename=esas_mehsullar.csv
